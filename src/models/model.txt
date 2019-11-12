@@ -1,0 +1,3 @@
+model representa uma tabela do banco de dados, 
+um schema do banco de dados, representa uma 
+entidade dentro da aplicação

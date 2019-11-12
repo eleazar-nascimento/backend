@@ -1,0 +1,3 @@
+Onde fica  a Regra de negócio.
+O controller no primeiro momento é onde vamos 
+colocar a regra de negócio, receber a requisicao, tratar a requisicao e devolver uma resposta.
