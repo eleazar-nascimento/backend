@@ -20,4 +20,4 @@ mongoose.connect('mongodb+srv://oministack:oministack@cluster0-illat.mongodb.net
     app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads')));
     app.use(routes);    
 
-app.listen(3333);
+app.listen(process.env.PORT || 3333);
