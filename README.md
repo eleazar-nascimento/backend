@@ -7,7 +7,7 @@ Foram utilizadas as tecnologias:
 
 # Instalação
 
-# Backend:
+Backend:
 
 yarn/npm install: Comando para instalar todas as dependências.
 
